@@ -5,7 +5,7 @@
 
 - 🗓️Created - 2024-01-29
 
-- 💻Technologies Used - Html , Css , Api , Swiper , Tailwind ,React
+- 💻Technologies Used - Html , Css , Api , Swiper , Tailwind , React
 
 - Responsive
   
